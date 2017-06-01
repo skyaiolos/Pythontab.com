@@ -1,3 +1,3 @@
-Python ÖÐÎÄ¿ª·¢ÕßÉçÇø¡£
+Python ä¸­æ–‡å¼€å‘è€…ç¤¾åŒº
 
 http://www.pythontab.com/
